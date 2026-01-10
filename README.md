@@ -1,7 +1,5 @@
 <h1 align="center">𝗛𝗲𝘆, 𝗜'𝗺 𝗟𝗲𝗼 👋 </h1> 
-<h3 align="center">𝒜 𝓅𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒷𝒶𝒸𝓀𝑒𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒻𝓇𝑜𝓂 ℬ𝓇𝒶𝓏𝒾𝓁 </h3>
 <h3 align="center">🏗️<b>under construction!</b>🏗️ </h3>
-<img src="https://media4.giphy.com/media/ayBZf3xVtT74Q/giphy.gif?cid=ecf05e47vmp4pll7y459xuaslfwih4shmd72qtm8k6uwri78&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right">
 
 
 <h3 align="left">Connect with me:</h3>
