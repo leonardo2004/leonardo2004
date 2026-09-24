@@ -17,14 +17,11 @@
 <a href="https://github.com/leonardo2004">
   <img src="https://img.shields.io/badge/GitHub-leonardo2004-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" />
 </a>
-<a href="[seu-linkedin]">
+<a href="https://www.linkedin.com/feed/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFD700" />
 </a>
-<a href="mailto:[seu-email]">
+<a href="mailto:dminer3x@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-Contato-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" />
-</a>
-<a href="[seu-portfolio]">
-  <img src="https://img.shields.io/badge/Portfólio-Visitar-FFD700?style=for-the-badge&logo=firefox&logoColor=000000&labelColor=FFD700" />
 </a>
 
 </div>
@@ -43,16 +40,16 @@ Acredito que o domínio das camadas mais profundas da computação é o que dife
 
 <div align="center">
 
-| Tecnologia | Descrição | Ícone |
+| Tecnologia | Descrição | Badge |
 |:---:|:---|:---:|
-| **Bash** | Automação de tarefas, scripts de build e manipulação de pipelines no Linux. | <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40"/> |
-| **Fish** | Shell interativo customizado para produtividade e configurações modernas de terminal. | <img src="https://img.shields.io/badge/Fish-000000?style=for-the-badge&logo=gnubash&logoColor=FFD700"/> |
-| **Rust** | Desenvolvimento de sistemas seguros e performáticos, CLI tools e integração com FFI. | <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="40"/> |
-| **Assembly** | Programação de baixo nível, otimização de rotinas críticas e estudo de arquiteturas (x86/ARM). | <img src="https://img.shields.io/badge/Assembly-FFD700?style=for-the-badge&logo=assemblyscript&logoColor=000000"/> |
-| **SystemVerilog** | Modelagem e verificação de circuitos digitais complexos, testbenches e UVM. | <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=v&logoColor=FFD700"/> |
-| **Verilog** | Síntese de hardware em FPGA, design de módulos RTL e prototipagem de SoCs. | <img src="https://img.shields.io/badge/Verilog-FFD700?style=for-the-badge&logo=v&logoColor=000000"/> |
-| **Linux** | Administração de sistemas, kernel tuning, containers e ambientes de desenvolvimento. | <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40"/> |
-| **Python** | Scripts de automação, prototipagem rápida, análise de dados e ferramentas de suporte. | <img src="https://skillicons.dev/icons?i=py&theme=dark" height="40"/> |
+| **Bash** | Automação de tarefas, scripts de build e manipulação de pipelines no Linux. | <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFD700" /> |
+| **Fish** | Shell interativo customizado para produtividade e configurações modernas de terminal. | <img src="https://img.shields.io/badge/Fish-000000?style=for-the-badge&logo=gnubash&logoColor=FFD700" /> |
+| **Rust** | Desenvolvimento de sistemas seguros e performáticos, CLI tools e integração com FFI. | <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFD700" /> |
+| **Assembly** | Programação de baixo nível, otimização de rotinas críticas e estudo de arquiteturas (x86/ARM). | <img src="https://img.shields.io/badge/Assembly-FFD700?style=for-the-badge&logo=assemblyscript&logoColor=000000" /> |
+| **SystemVerilog** | Modelagem e verificação de circuitos digitais complexos, testbenches e UVM. | <img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=v&logoColor=FFD700" /> |
+| **Verilog** | Síntese de hardware em FPGA, design de módulos RTL e prototipagem de SoCs. | <img src="https://img.shields.io/badge/Verilog-FFD700?style=for-the-badge&logo=v&logoColor=000000" /> |
+| **Linux** | Administração de sistemas, kernel tuning, containers e ambientes de desenvolvimento. | <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700" /> |
+| **Python** | Scripts de automação, prototipagem rápida, análise de dados e ferramentas de suporte. | <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" /> |
 
 </div>
 
@@ -109,14 +106,11 @@ Acredito que o domínio das camadas mais profundas da computação é o que dife
 
 <div align="center">
 
-<a href="[seu-linkedin]">
-  <img src="https://img.shields.io/badge/LinkedIn-[seu--linkedin]-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFD700" />
+<a href="https://www.linkedin.com/feed/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFD700" />
 </a>
-<a href="mailto:[seu-email]">
-  <img src="https://img.shields.io/badge/E--mail-[seu--email]-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" />
-</a>
-<a href="[seu-portfolio]">
-  <img src="https://img.shields.io/badge/Portfólio-[seu--portfolio]-FFD700?style=for-the-badge&logo=firefox&logoColor=000000&labelColor=FFD700" />
+<a href="mailto:dminer3x@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-dminer3x@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" />
 </a>
 
 </div>
