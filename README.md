@@ -55,42 +55,12 @@ Acredito que o domínio das camadas mais profundas da computação é o que dife
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo2004&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700&include_all_commits=true&count_private=true&locale=pt-br" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo2004&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700&langs_count=8&locale=pt-br" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo2004&theme=dark&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
 ## 🌱 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/leonardo2004/[projeto1]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=RV32-Blueprint&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
-</a>
-<a href="https://github.com/leonardo2004/[projeto2]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=Python-Backtesting&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
-</a>
-<br/><br/>
-
-</div>
-
-### 🔧 Detalhes dos Projetos
 
 | Projeto | Descrição | Tecnologias | Link |
 |:---|:---|:---|:---:|
-| **RV32-Blueprint** | [Descrição curta e impactante do projeto, focando no problema resolvido.] | `Rust` · `Assembly` · `Linux` | [🔗 Acessar](https://github.com/leonardo2004/RV32-Blueprint) |
-| **Python-Backtesting** | [Descrição curta — ex.: design de um módulo RTL para processamento digital.] | `SystemVerilog` · `Verilog` | [🔗 Acessar](https://github.com/leonardo2004/Python-Backtesting) |
+| **RV32-Blueprint** | Implementação de um processador RISC-V de 32 bits, com foco em design RTL modular e simulação. | `SystemVerilog` · `Verilog` | [🔗 Acessar](https://github.com/leonardo2004/RV32-Blueprint) |
+| **Python-Backtesting** | Framework para backtesting de estratégias, com análise de métricas e visualização de resultados. | `Python` | [🔗 Acessar](https://github.com/leonardo2004/Python-Backtesting) |
 
 ---
 
