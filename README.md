@@ -17,7 +17,7 @@
 <a href="https://github.com/leonardo2004">
   <img src="https://img.shields.io/badge/GitHub-leonardo2004-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" />
 </a>
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/leotl/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFD700" />
 </a>
 <a href="mailto:dminer3x@gmail.com">
@@ -106,7 +106,7 @@ Acredito que o domínio das camadas mais profundas da computação é o que dife
 
 <div align="center">
 
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/leotl/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=FFD700" />
 </a>
 <a href="mailto:dminer3x@gmail.com">
