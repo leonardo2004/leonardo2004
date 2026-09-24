@@ -76,18 +76,12 @@ Acredito que o domínio das camadas mais profundas da computação é o que dife
 <div align="center">
 
 <a href="https://github.com/leonardo2004/[projeto1]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=[projeto1]&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=RV32-Blueprint&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
 </a>
 <a href="https://github.com/leonardo2004/[projeto2]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=[projeto2]&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=Python-Backtesting&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
 </a>
 <br/><br/>
-<a href="https://github.com/leonardo2004/[projeto3]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=[projeto3]&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
-</a>
-<a href="https://github.com/leonardo2004/[projeto4]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardo2004&repo=[projeto4]&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&border_color=FFD700" />
-</a>
 
 </div>
 
@@ -95,10 +89,8 @@ Acredito que o domínio das camadas mais profundas da computação é o que dife
 
 | Projeto | Descrição | Tecnologias | Link |
 |:---|:---|:---|:---:|
-| **[projeto1]** | [Descrição curta e impactante do projeto, focando no problema resolvido.] | `Rust` · `Assembly` · `Linux` | [🔗 Acessar](https://github.com/leonardo2004/[projeto1]) |
-| **[projeto2]** | [Descrição curta — ex.: design de um módulo RTL para processamento digital.] | `SystemVerilog` · `Verilog` | [🔗 Acessar](https://github.com/leonardo2004/[projeto2]) |
-| **[projeto3]** | [Descrição curta — ex.: toolkit de automação em Bash/Fish.] | `Bash` · `Fish` · `Python` | [🔗 Acessar](https://github.com/leonardo2004/[projeto3]) |
-| **[projeto4]** | [Descrição curta — ex.: driver ou ferramenta de sistema em baixo nível.] | `Rust` · `C` · `Linux` | [🔗 Acessar](https://github.com/leonardo2004/[projeto4]) |
+| **RV32-Blueprint** | [Descrição curta e impactante do projeto, focando no problema resolvido.] | `Rust` · `Assembly` · `Linux` | [🔗 Acessar](https://github.com/leonardo2004/RV32-Blueprint) |
+| **Python-Backtesting** | [Descrição curta — ex.: design de um módulo RTL para processamento digital.] | `SystemVerilog` · `Verilog` | [🔗 Acessar](https://github.com/leonardo2004/Python-Backtesting) |
 
 ---
 
