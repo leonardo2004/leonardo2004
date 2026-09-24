@@ -1,6 +1,6 @@
 <!-- Banner de Topo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Leonardo&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas%20de%20Baixo%20N%C3%ADvel&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Leonardo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas%20de%20Baixo%20N%C3%ADvel&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
@@ -81,7 +81,7 @@ Acredito que o domínio das camadas mais profundas da computação é o que dife
 
 <!-- Banner de Rodapé -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer&text=O%20futuro%20é%20glorioso%20🐆&fontSize=28&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer&text=O%20futuro%20é%20glorioso%20🐆&fontSize=28&fontColor=FFFFFF&animation=fadeIn" />
 </div>
 
 <div align="center">
